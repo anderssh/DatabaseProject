@@ -1,4 +1,4 @@
-package project2;
+package theProject;
 
 import java.sql.*;
 
@@ -25,6 +25,5 @@ public class View {
 		}    
 
 	}
-	
 
 }

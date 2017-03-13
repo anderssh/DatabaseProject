@@ -1,4 +1,4 @@
-package project2;
+package theProject;
 
 import java.sql.*;
 import java.io.IOException;
