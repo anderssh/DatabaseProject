@@ -49,7 +49,6 @@ public class MySQLAccess {
                         insert_idrett.setString(1, "Tennis");
                         insert_idrett.executeUpdate();
                         insert_idrett.setString(1, "Tennis");
-                        insert_idrett.setString(1, "Tennis");
                         
                         list_idrett = connect.prepareStatement("SELECT * FROM idrett");
                         resultSet = list_idrett.executeQuery();
